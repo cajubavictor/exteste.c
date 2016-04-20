@@ -2,6 +2,8 @@
 
 #include<stdio.h>
 
+/* nao use // */
+
 int main(void)
 {
 
